@@ -3,10 +3,10 @@
 ## Day 1 - 02/09/2023
 Welcome to Day 1 of my 100 Days to Learn Front-End Development Challenge! 🚀
 
-## Overview
+### Overview
 Today, I dived into the world of Git and GitHub, essential tools for version control and collaborative development in web development projects. Below, you'll find a summary of what I learned and the key concepts covered:
 
-## What I Learned
+### What I Learned
 
 - **Git Basics**: I started by understanding the fundamental concepts of version control, the importance of tracking changes, and why Git is crucial in software development.
 
