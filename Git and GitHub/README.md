@@ -1,6 +1,6 @@
 # Git and GitHub
 
-# Day 1 - 02/09/2023
+## Day 1 - 02/09/2023
 Welcome to Day 1 of my 100 Days to Learn Front-End Development Challenge! 🚀
 
 ## Overview
