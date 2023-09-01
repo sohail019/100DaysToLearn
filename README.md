@@ -50,7 +50,7 @@ Here's a breakdown of the topics I'll be covering during this challenge:
 
 ## Progress Tracking
 
-- [ ] Day 1: Started the challenge by learning Git and GitHub.
+- [ ] Day 1: Day 1: Started the challenge by diving into Git and GitHub. Learned the basics of version control and collaboration. Created a new folder for Day 1 progress. 🚀 #100DaysOfFrontEnd #Git #GitHub
 - [ ] Day 2: (Update your progress here)
 - [ ] Day 3: (Update your progress here)
 - [ ] Day 4: (Update your progress here)
