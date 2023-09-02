@@ -27,7 +27,7 @@ This repository documents my personal journey as I take on the challenge of lear
 
 Here's a breakdown of the topics I'll be covering during this challenge:
 
-- [Git and Github](./Git-and-Github) 
+- [Git and Github](https://github.com/sohail019/100DaysToLearn/tree/main/Git%20and%20GitHub) 
 - HTML
 - Intermediate HTML
 - Multi-Page Websites
