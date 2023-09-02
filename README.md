@@ -71,9 +71,9 @@ I'll be using a variety of resources to learn and practice during this challenge
 
 You can connect with me and follow my journey on the following platforms:
 
-- Twitter: (https://twitter.com/scookiehail?lang=en)
-- LinkedIn: (https://in.linkedin.com/in/scookiehail)
-- GitHub: (https://github.com/sohail019)
+-[Twitter](https://twitter.com/scookiehail?lang=en)
+-[LinkedIn] (https://in.linkedin.com/in/scookiehail)
+-[Github](https://github.com/sohail019)
 
 Feel free to reach out, share your thoughts, or offer suggestions and encouragement as I embark on this exciting learning adventure!
 
