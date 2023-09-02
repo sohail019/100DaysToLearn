@@ -71,9 +71,12 @@ I'll be using a variety of resources to learn and practice during this challenge
 
 You can connect with me and follow my journey on the following platforms:
 
--[Twitter](https://twitter.com/scookiehail?lang=en)
--[LinkedIn](https://in.linkedin.com/in/scookiehail)
--[Github](https://github.com/sohail019)
+![github](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)
+![linkedin](https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white)
+![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)
+![twitter](https://img.shields.io/badge/Twitter-1D9BF0?style=for-the-badge&logo=Twitter&logoColor=white)
+![facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=white)
+
 
 Feel free to reach out, share your thoughts, or offer suggestions and encouragement as I embark on this exciting learning adventure!
 
